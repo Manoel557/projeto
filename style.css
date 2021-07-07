@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+h1{
+    border-style: double;
+    border-width: 5px;
+    border-color: yellow;
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2? family = Yomogi & display = swap');
+body{
+    margin: 100px 70px 30px 80px;
+    background-color: azure;
+    color: black;
+    font-size: 12pt;
+    font-family: 'Yomogi', cursive;
+}
+h1 {
+    padding: 60px;
+    color: #1E90FF;
+    font-family:'DM Serif Display', serif;
+    text-align: center;
+    text-shadow: -2px 3px 3px #000;
+}
+h2 {color: #CD5C5C}
+h3 {color: rgb(107, 38, 38)}
+a  {color: rgb(4, 62, 109)}
+
