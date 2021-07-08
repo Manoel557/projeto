@@ -19,12 +19,12 @@
 
 
     <p> Equipe:
-    <footer>
+    
         <ol><li>João Lucas Sousa Ribeiro</li>
             <li>Leticia Maria Oliveira de Melo</li>
             <li>Manoel Messias Cavalcante da Silva</li>
         </ol>
-    </footer></p>
+    </p>
         
 
 
