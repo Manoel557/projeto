@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Covid-19</title>
+<title>Covid-19</title>
 </head>
 <body>
     <h1>Menu</h1>
@@ -14,7 +14,7 @@
     </ul></p>
 
 
-    <p> Equipe:
+<p> Equipe:
         <ol><li>João Lucas Sousa Ribeiro</li>
             <li>Leticia Maria Oliveira de Melo</li>
             <li>Manoel Messias Cavalcante da Silva</li>
