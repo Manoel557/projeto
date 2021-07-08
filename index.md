@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <link rel="shortcut icon" href="file:///C:/Users/cmila/Downloads/favicon.png" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Covid-19</title>
+    <title> Covid-19 </title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -20,10 +20,10 @@
 
     <p> Equipe:
     <footer>
-        </p><ol><li>João Lucas Sousa Ribeiro</li>
+        <ol><li>João Lucas Sousa Ribeiro</li>
             <li>Leticia Maria Oliveira de Melo</li>
             <li>Manoel Messias Cavalcante da Silva</li>
-        </ol><p></p>
+        </ol></p>
     </footer>
         
 
